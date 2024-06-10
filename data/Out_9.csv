@@ -1,0 +1,33 @@
+"
+cluster","sender_id
+","message_count
+","avg_char_count
+","total_char_count
+","avg_word_count
+","total_word_count
+","avg_photo
+","total_photo
+","avg_video
+","total_video
+","avg_audio
+","total_audio
+","avg_document
+","total_document
+","lifetime_days
+","first_message_date
+","last_message_date
+","avg_is_question
+","total_is_question
+","avg_is_reply
+","total_is_reply
+","is_active
+","most_active_hour
+","neutral_messages
+","1star_messages
+","2star_messages
+","3star_messages
+","4star_messages
+","5star_messages
+"
+-1,2003,25.288567,72.537942,2192.873689,10.687749,324.796306,0.044466,1.670994,0.001891,0.040439,0.000086,0.007988,0.009743,0.2666,123.794808,2021-08-09 05:17:54.606590208,2021-12-11 07:56:18.060908800,0.26928,6.047429,0.196553,10.391912,0.158263,11.932102,1.968048,8.686970,2.076385,4.079880,2.628058,5.849226
+0,3025,1.072397,0.399364,1.228430,0.066754,0.205620,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.0000,0.528595,2021-11-29 11:55:33.017851392,2021-11-30 00:50:31.380495616,0.00000,0.000000,0.000000,0.000000,0.000000,12.394050,1.009917,0.012893,0.000992,0.008926,0.004628,0.035041
